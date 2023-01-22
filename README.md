@@ -14,3 +14,4 @@ I will do that in the problem.
 
 # Screen Shot of the Test Output 
 
+<img width="588" alt="Fizz_Buzz-String" src="https://user-images.githubusercontent.com/107374333/213904615-94a96898-e50e-4fe7-9420-45dbc26f3350.png">
